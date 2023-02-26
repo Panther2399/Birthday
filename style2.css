@@ -5,16 +5,17 @@
 
 body
 {
-	margin:0;
-	padding:0;
-	font-family: Apple Chancery, cursive;
+	
 }
 .container
 {
+	margin:0;
+	padding:0;
+	font-family: Apple Chancery, cursive;
 	position: relative;
 	width: 90%;
 	margin:150px auto 0;
-	height:780px;
+	height:100%;
 	display: grid;
 	grid-template-rows: 750px;
 	grid-gap: 40px;
